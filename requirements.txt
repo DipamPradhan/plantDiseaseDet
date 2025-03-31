@@ -1,0 +1,6 @@
+fastapi[standard]
+ultralytics
+langchain
+google-generativeai
+markdown
+langchain_google_genai
